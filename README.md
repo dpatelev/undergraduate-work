@@ -1,6 +1,6 @@
 # undergraduate-work
  
-Three assignments from my Computational Chemistry module during my studies at the Univeristy of Warwick.
+Assignments from my Computational Chemistry module during my studies at the Univeristy of Warwick.
 
 Assignment 1: Machine Learning for Drug Design/Discovery - to be accessed ad uploaded
 Assignment 2: Visualising global minima of atomic clusters - uploaded
