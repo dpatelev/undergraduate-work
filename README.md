@@ -1,6 +1,4 @@
-# undergraduate-work
- 
-## Assignments from my Computational Chemistry module during my studies at the University of Warwick.
+# Assignments from my Computational Chemistry module @ UoW during the 2019/20 academic year.
 
 Assignment 1: Machine Learning for Drug Design/Discovery <br>
 Assignment 2: Visualising global minima of atomic clusters <br>
